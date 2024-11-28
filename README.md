@@ -15,16 +15,16 @@
 
 
 ## 运行截图
-![](img/001.jpg)
-![](img/002.jpg)
-![](img/003.jpg)
-![](img/004.jpg)
-![](img/005.jpg)
-![](img/006.jpg)
-![](img/007.jpg)
-![](img/008.jpg)
-![](img/009.jpg)
-![](img/010.jpg)
-![](img/011.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/001.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/002.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/003.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/004.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/005.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/006.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/007.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/008.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/009.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/010.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/OnlineVideoWebsiteDevelopmentJsp/img/011.jpg)
 
 <p>本代码来源于网络,仅供学习参考使用!</p>
